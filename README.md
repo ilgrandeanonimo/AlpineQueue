@@ -3,7 +3,7 @@
 ### Work Status
 - [x] Basic functions
 - [ ] Custom messages
-- [ ] Custom servers name
+- [x] Custom servers name
 
 ### Requirements
 - Java 17
